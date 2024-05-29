@@ -1,0 +1,28 @@
+{
+  "vendedor": [
+    {
+      "id": "54b5",
+      "name": "Andres",
+      "email": "andres@test.com",
+      "password": "123"
+    },
+    {
+      "id": "90f2",
+      "name": "Juan",
+      "password": "123",
+      "email": "juan@test.com"
+    },
+    {
+      "id": "dd8c",
+      "name": "Juan",
+      "password": "123",
+      "email": "juan@test.com"
+    },
+    {
+      "id": "b8f6",
+      "name": "Peter",
+      "password": "123",
+      "email": "peter@test.com"
+    }
+  ]
+}
